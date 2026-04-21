@@ -1,0 +1,181 @@
+2026-03-07 12:17:47,305 | INFO | =======================================================
+2026-03-07 12:17:47,305 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-07 12:17:47,324 | INFO | =======================================================
+2026-03-07 12:17:47,399 | INFO | Database initialized successfully.
+2026-03-07 12:17:47,403 | INFO | Existing records in database: 0
+2026-03-07 12:17:47,404 | INFO | Need 8,000 more records to reach goal of 8,000.
+2026-03-07 12:17:47,404 | INFO | Fetching | Offset: 0 | Batch size: 2000 | Total so far: 0/8,000
+2026-03-07 12:17:52,177 | INFO | Batch saved: 2000 new records inserted.
+2026-03-07 12:17:52,681 | INFO | Fetching | Offset: 2,000 | Batch size: 2000 | Total so far: 2,000/8,000
+2026-03-07 12:17:55,967 | INFO | Batch saved: 2000 new records inserted.
+2026-03-07 12:17:56,470 | INFO | Fetching | Offset: 4,000 | Batch size: 2000 | Total so far: 4,000/8,000
+2026-03-07 12:18:00,174 | INFO | Batch saved: 2000 new records inserted.
+2026-03-07 12:18:00,686 | INFO | Fetching | Offset: 6,000 | Batch size: 2000 | Total so far: 6,000/8,000
+2026-03-07 12:18:02,814 | INFO | Batch saved: 2000 new records inserted.
+2026-03-07 12:18:03,322 | INFO | =======================================================
+2026-03-07 12:18:03,322 | INFO | PIPELINE COMPLETE
+2026-03-07 12:18:03,322 | INFO | Collected this run : 8,000
+2026-03-07 12:18:03,322 | INFO | Total in database  : 8,000
+2026-03-07 12:18:03,322 | INFO | Goal               : 8,000
+2026-03-07 12:18:03,322 | INFO | Goal reached. Ready for data cleaning phase.
+2026-03-07 12:18:03,322 | INFO | =======================================================
+2026-03-07 12:18:03,329 | INFO | DATABASE SUMMARY:
+2026-03-07 12:18:03,329 | INFO |   total_records       : 8000
+2026-03-07 12:18:03,329 | INFO |   unique_cities       : 10
+2026-03-07 12:18:03,329 | INFO |   unique_zips         : 11
+2026-03-07 12:18:03,329 | INFO |   min_value           : 50.0
+2026-03-07 12:18:03,329 | INFO |   max_value           : 873020133.0
+2026-03-07 12:18:03,329 | INFO |   avg_value           : 316246.33
+2026-03-14 14:41:19,737 | INFO | =======================================================
+2026-03-14 14:41:19,737 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-14 14:41:19,737 | INFO | =======================================================
+2026-03-14 14:41:19,737 | INFO | Database initialized successfully.
+2026-03-14 14:41:19,740 | INFO | Existing records in database: 8,000
+2026-03-14 14:41:19,740 | INFO | Goal of 8,000 already reached. Nothing to fetch.
+2026-03-14 14:43:10,098 | INFO | =======================================================
+2026-03-14 14:43:10,098 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-14 14:43:10,098 | INFO | =======================================================
+2026-03-14 14:43:10,144 | INFO | Database initialized successfully.
+2026-03-14 14:43:10,146 | INFO | Existing records in database: 0
+2026-03-14 14:43:10,146 | INFO | Need 8,000 more records to reach goal of 8,000.
+2026-03-14 14:43:10,146 | INFO | Fetching | Offset: 0 | Batch size: 2000 | Total so far: 0/8,000
+2026-03-14 14:43:13,582 | INFO | No more records available on server.
+2026-03-14 14:43:13,582 | INFO | =======================================================
+2026-03-14 14:43:13,585 | INFO | PIPELINE COMPLETE
+2026-03-14 14:43:13,585 | INFO | Collected this run : 0
+2026-03-14 14:43:13,585 | INFO | Total in database  : 0
+2026-03-14 14:43:13,585 | INFO | Goal               : 8,000
+2026-03-14 14:43:13,585 | INFO | Still need 8,000 more. Re-run to continue.
+2026-03-14 14:43:13,585 | INFO | =======================================================
+2026-03-14 14:43:13,587 | INFO | DATABASE SUMMARY:
+2026-03-14 14:43:13,587 | INFO |   total_records       : 0
+2026-03-14 14:43:13,587 | INFO |   unique_cities       : 0
+2026-03-14 14:43:13,587 | INFO |   unique_zips         : 0
+2026-03-14 14:43:13,587 | INFO |   min_value           : 0
+2026-03-14 14:43:13,587 | INFO |   max_value           : 0
+2026-03-14 14:43:13,587 | INFO |   avg_value           : 0
+2026-03-14 14:43:35,830 | INFO | =======================================================
+2026-03-14 14:43:35,830 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-14 14:43:35,830 | INFO | =======================================================
+2026-03-14 14:43:35,830 | INFO | Database initialized successfully.
+2026-03-14 14:43:35,830 | INFO | Existing records in database: 0
+2026-03-14 14:43:35,830 | INFO | Need 8,000 more records to reach goal of 8,000.
+2026-03-14 14:43:35,830 | INFO | Fetching | Offset: 0 | Batch size: 2000 | Total so far: 0/8,000
+2026-03-14 14:43:39,804 | INFO | No more records available on server.
+2026-03-14 14:43:39,804 | INFO | =======================================================
+2026-03-14 14:43:39,804 | INFO | PIPELINE COMPLETE
+2026-03-14 14:43:39,804 | INFO | Collected this run : 0
+2026-03-14 14:43:39,804 | INFO | Total in database  : 0
+2026-03-14 14:43:39,804 | INFO | Goal               : 8,000
+2026-03-14 14:43:39,804 | INFO | Still need 8,000 more. Re-run to continue.
+2026-03-14 14:43:39,804 | INFO | =======================================================
+2026-03-14 14:43:39,804 | INFO | DATABASE SUMMARY:
+2026-03-14 14:43:39,808 | INFO |   total_records       : 0
+2026-03-14 14:43:39,808 | INFO |   unique_cities       : 0
+2026-03-14 14:43:39,808 | INFO |   unique_zips         : 0
+2026-03-14 14:43:39,808 | INFO |   min_value           : 0
+2026-03-14 14:43:39,808 | INFO |   max_value           : 0
+2026-03-14 14:43:39,808 | INFO |   avg_value           : 0
+2026-03-14 14:44:26,213 | INFO | =======================================================
+2026-03-14 14:44:26,213 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-14 14:44:26,213 | INFO | =======================================================
+2026-03-14 14:44:26,213 | INFO | Database initialized successfully.
+2026-03-14 14:44:26,213 | INFO | Existing records in database: 0
+2026-03-14 14:44:26,213 | INFO | Need 8,000 more records to reach goal of 8,000.
+2026-03-14 14:44:26,213 | INFO | Fetching | Offset: 0 | Batch size: 2000 | Total so far: 0/8,000
+2026-03-14 14:44:28,692 | INFO | No more records available on server.
+2026-03-14 14:44:28,692 | INFO | =======================================================
+2026-03-14 14:44:28,692 | INFO | PIPELINE COMPLETE
+2026-03-14 14:44:28,692 | INFO | Collected this run : 0
+2026-03-14 14:44:28,692 | INFO | Total in database  : 0
+2026-03-14 14:44:28,692 | INFO | Goal               : 8,000
+2026-03-14 14:44:28,692 | INFO | Still need 8,000 more. Re-run to continue.
+2026-03-14 14:44:28,692 | INFO | =======================================================
+2026-03-14 14:44:28,692 | INFO | DATABASE SUMMARY:
+2026-03-14 14:44:28,692 | INFO |   total_records       : 0
+2026-03-14 14:44:28,692 | INFO |   unique_cities       : 0
+2026-03-14 14:44:28,692 | INFO |   unique_zips         : 0
+2026-03-14 14:44:28,692 | INFO |   min_value           : 0
+2026-03-14 14:44:28,692 | INFO |   max_value           : 0
+2026-03-14 14:44:28,692 | INFO |   avg_value           : 0
+2026-03-14 14:56:32,151 | INFO | =======================================================
+2026-03-14 14:56:32,151 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-14 14:56:32,151 | INFO | =======================================================
+2026-03-14 14:56:32,151 | INFO | Database initialized successfully.
+2026-03-14 14:56:32,151 | INFO | Existing records in database: 0
+2026-03-14 14:56:32,151 | INFO | Need 8,000 more records to reach goal of 8,000.
+2026-03-14 14:56:32,151 | INFO | Fetching | Offset: 0 | Batch size: 2000 | Total so far: 0/8,000
+2026-03-14 14:56:36,157 | INFO | No more records available on server.
+2026-03-14 14:56:36,165 | INFO | =======================================================
+2026-03-14 14:56:36,165 | INFO | PIPELINE COMPLETE
+2026-03-14 14:56:36,165 | INFO | Collected this run : 0
+2026-03-14 14:56:36,165 | INFO | Total in database  : 0
+2026-03-14 14:56:36,165 | INFO | Goal               : 8,000
+2026-03-14 14:56:36,165 | INFO | Still need 8,000 more. Re-run to continue.
+2026-03-14 14:56:36,165 | INFO | =======================================================
+2026-03-14 14:56:36,167 | INFO | DATABASE SUMMARY:
+2026-03-14 14:56:36,167 | INFO |   total_records       : 0
+2026-03-14 14:56:36,167 | INFO |   unique_cities       : 0
+2026-03-14 14:56:36,167 | INFO |   unique_zips         : 0
+2026-03-14 14:56:36,167 | INFO |   min_value           : 0
+2026-03-14 14:56:36,167 | INFO |   max_value           : 0
+2026-03-14 14:56:36,167 | INFO |   avg_value           : 0
+2026-03-14 15:05:35,017 | INFO | =======================================================
+2026-03-14 15:05:35,017 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-14 15:05:35,017 | INFO | =======================================================
+2026-03-14 15:05:35,017 | INFO | Database initialized successfully.
+2026-03-14 15:05:35,017 | INFO | Existing records in database: 0
+2026-03-14 15:05:35,017 | INFO | Need 8,000 more records to reach goal of 8,000.
+2026-03-14 15:05:35,017 | INFO | Fetching | Offset: 0 | Batch size: 2000 | Total so far: 0/8,000
+2026-03-14 15:05:38,601 | ERROR | Database error: table leads has no column named OWN_STATE_
+2026-03-14 15:05:39,103 | INFO | Fetching | Offset: 2,000 | Batch size: 2000 | Total so far: 2,000/8,000
+2026-03-14 15:05:46,154 | ERROR | Database error: table leads has no column named OWN_STATE_
+2026-03-14 15:05:46,661 | INFO | Fetching | Offset: 4,000 | Batch size: 2000 | Total so far: 4,000/8,000
+2026-03-14 15:05:53,408 | ERROR | Database error: table leads has no column named OWN_STATE_
+2026-03-14 15:05:53,921 | INFO | Fetching | Offset: 6,000 | Batch size: 2000 | Total so far: 6,000/8,000
+2026-03-14 15:05:56,276 | ERROR | Database error: table leads has no column named OWN_STATE_
+2026-03-14 15:05:56,789 | INFO | =======================================================
+2026-03-14 15:05:56,789 | INFO | PIPELINE COMPLETE
+2026-03-14 15:05:56,789 | INFO | Collected this run : 8,000
+2026-03-14 15:05:56,789 | INFO | Total in database  : 0
+2026-03-14 15:05:56,789 | INFO | Goal               : 8,000
+2026-03-14 15:05:56,789 | INFO | Still need 8,000 more. Re-run to continue.
+2026-03-14 15:05:56,789 | INFO | =======================================================
+2026-03-14 15:05:56,789 | INFO | DATABASE SUMMARY:
+2026-03-14 15:05:56,789 | INFO |   total_records       : 0
+2026-03-14 15:05:56,789 | INFO |   unique_cities       : 0
+2026-03-14 15:05:56,789 | INFO |   unique_zips         : 0
+2026-03-14 15:05:56,789 | INFO |   min_value           : 0
+2026-03-14 15:05:56,789 | INFO |   max_value           : 0
+2026-03-14 15:05:56,789 | INFO |   avg_value           : 0
+2026-03-14 15:17:13,015 | INFO | =======================================================
+2026-03-14 15:17:13,015 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-03-14 15:17:13,015 | INFO | =======================================================
+2026-03-14 15:17:13,060 | INFO | Database initialized successfully.
+2026-03-14 15:17:13,060 | INFO | Existing records in database: 0
+2026-03-14 15:17:13,060 | INFO | Need 8,000 more records to reach goal of 8,000.
+2026-03-14 15:17:13,060 | INFO | Fetching | Offset: 0 | Batch size: 2000 | Total so far: 0/8,000
+2026-03-14 15:17:18,342 | INFO | Batch saved: 2000 new records inserted.
+2026-03-14 15:17:18,845 | INFO | Fetching | Offset: 2,000 | Batch size: 2000 | Total so far: 2,000/8,000
+2026-03-14 15:17:30,620 | INFO | Batch saved: 2000 new records inserted.
+2026-03-14 15:17:31,132 | INFO | Fetching | Offset: 4,000 | Batch size: 2000 | Total so far: 4,000/8,000
+2026-03-14 15:17:40,375 | INFO | Batch saved: 2000 new records inserted.
+2026-03-14 15:17:40,884 | INFO | Fetching | Offset: 6,000 | Batch size: 2000 | Total so far: 6,000/8,000
+2026-03-14 15:17:44,375 | INFO | Batch saved: 2000 new records inserted.
+2026-03-14 15:17:44,882 | INFO | =======================================================
+2026-03-14 15:17:44,882 | INFO | PIPELINE COMPLETE
+2026-03-14 15:17:44,886 | INFO | Collected this run : 8,000
+2026-03-14 15:17:44,886 | INFO | Total in database  : 8,000
+2026-03-14 15:17:44,886 | INFO | Goal               : 8,000
+2026-03-14 15:17:44,887 | INFO | Goal reached. Ready for data cleaning phase.
+2026-03-14 15:17:44,887 | INFO | =======================================================
+2026-03-14 15:17:44,910 | INFO | DATABASE SUMMARY:
+2026-03-14 15:17:44,910 | INFO |   total_records       : 8000
+2026-03-14 15:17:44,910 | INFO |   unique_cities       : 10
+2026-03-14 15:17:44,910 | INFO |   unique_zips         : 11
+2026-03-14 15:17:44,910 | INFO |   min_value           : 50.0
+2026-03-14 15:17:44,910 | INFO |   max_value           : 873020133.0
+2026-03-14 15:17:44,910 | INFO |   avg_value           : 316246.33
+2026-03-14 15:17:44,910 | INFO |   has_living_area     : 5605
+2026-03-14 15:17:44,910 | INFO |   has_second_sale     : 93
+2026-03-14 15:17:44,910 | INFO |   out_of_state_owners : 376
