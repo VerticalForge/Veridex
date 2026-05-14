@@ -179,3 +179,9 @@
 2026-03-14 15:17:44,910 | INFO |   has_living_area     : 5605
 2026-03-14 15:17:44,910 | INFO |   has_second_sale     : 93
 2026-03-14 15:17:44,910 | INFO |   out_of_state_owners : 376
+2026-05-03 13:30:01,891 | INFO | =======================================================
+2026-05-03 13:30:01,891 | INFO | PROPULSE AI — FLORIDA PIPELINE STARTING
+2026-05-03 13:30:01,892 | INFO | =======================================================
+2026-05-03 13:30:01,940 | INFO | Database initialized successfully.
+2026-05-03 13:30:01,943 | INFO | Existing records in database: 8,000
+2026-05-03 13:30:01,943 | INFO | Goal of 8,000 already reached. Nothing to fetch.
